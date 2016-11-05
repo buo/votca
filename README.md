@@ -1,3 +1,7 @@
+[![Docker Automated buil](https://img.shields.io/docker/automated/with/votca.svg)]()
+[![Docker Stars](https://img.shields.io/docker/stars/with/votca.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/with/votca.svg)]()
+
 # Unofficial Docker Image for VOTCA
 
 This is an unofficial Docker image for [VOTCA](http://www.votca.org/) with
